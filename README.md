@@ -37,9 +37,9 @@ pip install -r requirements.txt
 ```
 
 3. Configura tu token de Discord:
-- Crea un archivo `.env` y agrega tu token:
+- cambia el token
 ```
-DISCORD_TOKEN=tu_token_aqui
+DISCORD_TOKEN = 'EL TOKEN DE TU BOT DE DISCORD'
 ```
 
 4. Ejecuta el bot:
