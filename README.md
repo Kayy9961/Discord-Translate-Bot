@@ -27,7 +27,7 @@ Ejemplo:
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tuusuario/discord-translate-bot.git
+git clone https://github.com/Kayy9961/discord-translate-bot.git
 cd discord-translate-bot
 ```
 
